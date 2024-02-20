@@ -47,6 +47,7 @@ sudo certbot --nginx
 ```
 
 Note: when prompted, provide your real email address to get certificate alerts, and provide all three DNS names above like this:
+
 `xah-mainnet01.mydomain.com rpc-xah-mainnet.mydomain.com wss-xah-mainnet.mydomain.com`
 
 ## Configure xahaud specific reverse proxy config
